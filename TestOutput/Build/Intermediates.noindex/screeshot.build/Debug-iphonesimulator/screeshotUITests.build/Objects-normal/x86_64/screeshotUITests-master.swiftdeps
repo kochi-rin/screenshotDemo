@@ -1,5 +1,0 @@
-version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
-options: "19811bf46236023418c3bcc3602cc053"
-build_time: [1590046582, 560328000]
-inputs:
-  "/Users/kouchi.rin/Development/screeshot/screeshotUITests/screeshotUITests.swift": [1590046055, 549125422]
