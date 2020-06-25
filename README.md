@@ -2,7 +2,7 @@
 
 ### Run test
 ```
-xcodebuild -scheme screeshot -project ./screeshot.xcodeproj -derivedDataPath './ScreenshotOutput' -destination 'platform=iOS Simulator,name=iPhone 11 Pro,OS=13.3' build test
+xcodebuild -scheme screenshot -project ./screenshot.xcodeproj -derivedDataPath './ScreenshotOutput' -destination 'platform=iOS Simulator,name=iPhone 11 Pro,OS=13.3' build test
 ```
 
 ### Export png

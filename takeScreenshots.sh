@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # The Xcode project to create screenshots for
-projectName="./screeshot.xcodeproj"
+projectName="./screenshot.xcodeproj"
 
 # The scheme to run tests for
-schemeName="screeshot"
+schemeName="screenshot"
 
 
 # All the simulators we want to screenshot

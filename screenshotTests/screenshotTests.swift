@@ -1,15 +1,15 @@
 //
-//  screeshotTests.swift
-//  screeshotTests
+//  screenshotTests.swift
+//  screenshotTests
 //
 //  Created by kouchi.rin on 2020/05/21.
 //  Copyright © 2020 kouchi.rin. All rights reserved.
 //
 
 import XCTest
-@testable import screeshot
+@testable import screenshot
 
-class screeshotTests: XCTestCase {
+class screenshotTests: XCTestCase {
 
     override func setUp() {
         // Put setup code here. This method is called before the invocation of each test method in the class.

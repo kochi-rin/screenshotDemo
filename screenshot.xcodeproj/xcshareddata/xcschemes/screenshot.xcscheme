@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "1C4127F8247661DC00AF5585"
-               BuildableName = "screeshot.app"
-               BlueprintName = "screeshot"
-               ReferencedContainer = "container:screeshot.xcodeproj">
+               BuildableName = "screenshot.app"
+               BlueprintName = "screenshot"
+               ReferencedContainer = "container:screenshot.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "1C41280E247661DD00AF5585"
-               BuildableName = "screeshotTests.xctest"
-               BlueprintName = "screeshotTests"
-               ReferencedContainer = "container:screeshot.xcodeproj">
+               BuildableName = "screenshotTests.xctest"
+               BlueprintName = "screenshotTests"
+               ReferencedContainer = "container:screenshot.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "1C412819247661DD00AF5585"
-               BuildableName = "screeshotUITests.xctest"
-               BlueprintName = "screeshotUITests"
-               ReferencedContainer = "container:screeshot.xcodeproj">
+               BuildableName = "screenshotUITests.xctest"
+               BlueprintName = "screenshotUITests"
+               ReferencedContainer = "container:screenshot.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -65,9 +65,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1C4127F8247661DC00AF5585"
-            BuildableName = "screeshot.app"
-            BlueprintName = "screeshot"
-            ReferencedContainer = "container:screeshot.xcodeproj">
+            BuildableName = "screenshot.app"
+            BlueprintName = "screenshot"
+            ReferencedContainer = "container:screenshot.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -82,9 +82,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1C4127F8247661DC00AF5585"
-            BuildableName = "screeshot.app"
-            BlueprintName = "screeshot"
-            ReferencedContainer = "container:screeshot.xcodeproj">
+            BuildableName = "screenshot.app"
+            BlueprintName = "screenshot"
+            ReferencedContainer = "container:screenshot.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
