@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "d3f22e9b7d155c1ee004e379322b8b3b"
+build_time: [1592469081, 96583000]
+inputs:
+  "/Users/kouchi.rin/Development/screeshot/screeshot/SecondViewController.swift": [1590045613, 446009539]
+  "/Users/kouchi.rin/Development/screeshot/screeshot/FirstViewController.swift": [1590045589, 760589187]
+  "/Users/kouchi.rin/Development/screeshot/screeshot/AppDelegate.swift": [1590045276, 472603430]
+  "/Users/kouchi.rin/Development/screeshot/screeshot/SceneDelegate.swift": [1590045276, 484779916]

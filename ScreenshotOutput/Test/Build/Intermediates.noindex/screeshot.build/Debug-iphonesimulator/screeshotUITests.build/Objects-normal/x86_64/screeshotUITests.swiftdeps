@@ -1,0 +1,431 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "screeshotUITests"
+provides-nominal:
+- "16screeshotUITestsAAC"
+provides-member:
+- ["16screeshotUITestsAAC", ""]
+provides-dynamic-lookup:
+- "setUp"
+- "takeScreenshot"
+- "tearDown"
+- "testExample"
+depends-top-level:
+- !private "=="
+- "AssignmentPrecedence"
+- !private "BooleanLiteralType"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- "String"
+- !private "StringLiteralType"
+- !private "UIDevice"
+- !private "UnicodeScalarType"
+- !private "XCTAttachment"
+- !private "XCTWaiter"
+- "XCTestCase"
+- !private "XCUIApplication"
+- !private "XCUIScreen"
+- "screeshotUITests"
+depends-member:
+- !private ["s7CVarArgP", "UIDevice"]
+- !private ["s7CVarArgP", "XCTAttachment"]
+- !private ["s7CVarArgP", "XCTWaiter"]
+- !private ["s7CVarArgP", "XCUIApplication"]
+- !private ["s7CVarArgP", "XCUIScreen"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "add"]
+- !private ["s7CVarArgP", "buttons"]
+- !private ["s7CVarArgP", "continueAfterFailure"]
+- !private ["s7CVarArgP", "current"]
+- !private ["s7CVarArgP", "expectation"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "launch"]
+- !private ["s7CVarArgP", "lifetime"]
+- !private ["s7CVarArgP", "main"]
+- !private ["s7CVarArgP", "name"]
+- !private ["s7CVarArgP", "pngRepresentation"]
+- !private ["s7CVarArgP", "screenshot"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["s7CVarArgP", "takeScreenshot"]
+- !private ["s7CVarArgP", "tap"]
+- !private ["s7CVarArgP", "wait"]
+- !private ["s28CustomDebugStringConvertibleP", "UIDevice"]
+- !private ["s28CustomDebugStringConvertibleP", "XCTAttachment"]
+- !private ["s28CustomDebugStringConvertibleP", "XCTWaiter"]
+- !private ["s28CustomDebugStringConvertibleP", "XCUIApplication"]
+- !private ["s28CustomDebugStringConvertibleP", "XCUIScreen"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "add"]
+- !private ["s28CustomDebugStringConvertibleP", "buttons"]
+- !private ["s28CustomDebugStringConvertibleP", "continueAfterFailure"]
+- !private ["s28CustomDebugStringConvertibleP", "current"]
+- !private ["s28CustomDebugStringConvertibleP", "expectation"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "launch"]
+- !private ["s28CustomDebugStringConvertibleP", "lifetime"]
+- !private ["s28CustomDebugStringConvertibleP", "main"]
+- !private ["s28CustomDebugStringConvertibleP", "name"]
+- !private ["s28CustomDebugStringConvertibleP", "pngRepresentation"]
+- !private ["s28CustomDebugStringConvertibleP", "screenshot"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "takeScreenshot"]
+- !private ["s28CustomDebugStringConvertibleP", "tap"]
+- !private ["s28CustomDebugStringConvertibleP", "wait"]
+- !private ["s23CustomStringConvertibleP", "UIDevice"]
+- !private ["s23CustomStringConvertibleP", "XCTAttachment"]
+- !private ["s23CustomStringConvertibleP", "XCTWaiter"]
+- !private ["s23CustomStringConvertibleP", "XCUIApplication"]
+- !private ["s23CustomStringConvertibleP", "XCUIScreen"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "add"]
+- !private ["s23CustomStringConvertibleP", "appendInterpolation"]
+- !private ["s23CustomStringConvertibleP", "appendLiteral"]
+- !private ["s23CustomStringConvertibleP", "buttons"]
+- !private ["s23CustomStringConvertibleP", "continueAfterFailure"]
+- !private ["s23CustomStringConvertibleP", "current"]
+- !private ["s23CustomStringConvertibleP", "expectation"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "launch"]
+- !private ["s23CustomStringConvertibleP", "lifetime"]
+- !private ["s23CustomStringConvertibleP", "main"]
+- !private ["s23CustomStringConvertibleP", "name"]
+- !private ["s23CustomStringConvertibleP", "pngRepresentation"]
+- !private ["s23CustomStringConvertibleP", "screenshot"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "takeScreenshot"]
+- !private ["s23CustomStringConvertibleP", "tap"]
+- !private ["s23CustomStringConvertibleP", "wait"]
+- !private ["s26DefaultStringInterpolationV", "appendInterpolation"]
+- !private ["s26DefaultStringInterpolationV", "appendLiteral"]
+- !private ["SQ", "UIDevice"]
+- !private ["SQ", "XCTAttachment"]
+- !private ["SQ", "XCTWaiter"]
+- !private ["SQ", "XCUIApplication"]
+- !private ["SQ", "XCUIScreen"]
+- ["SQ", ""]
+- !private ["SQ", "add"]
+- !private ["SQ", "buttons"]
+- !private ["SQ", "continueAfterFailure"]
+- !private ["SQ", "current"]
+- !private ["SQ", "expectation"]
+- !private ["SQ", "init"]
+- !private ["SQ", "keepAlways"]
+- !private ["SQ", "launch"]
+- !private ["SQ", "lifetime"]
+- !private ["SQ", "main"]
+- !private ["SQ", "name"]
+- !private ["SQ", "pngRepresentation"]
+- !private ["SQ", "screenshot"]
+- !private ["SQ", "subscript"]
+- !private ["SQ", "takeScreenshot"]
+- !private ["SQ", "tap"]
+- !private ["SQ", "timedOut"]
+- !private ["SQ", "wait"]
+- !private ["SH", "UIDevice"]
+- !private ["SH", "XCTAttachment"]
+- !private ["SH", "XCTWaiter"]
+- !private ["SH", "XCUIApplication"]
+- !private ["SH", "XCUIScreen"]
+- ["SH", ""]
+- !private ["SH", "add"]
+- !private ["SH", "buttons"]
+- !private ["SH", "continueAfterFailure"]
+- !private ["SH", "current"]
+- !private ["SH", "expectation"]
+- !private ["SH", "init"]
+- !private ["SH", "keepAlways"]
+- !private ["SH", "launch"]
+- !private ["SH", "lifetime"]
+- !private ["SH", "main"]
+- !private ["SH", "name"]
+- !private ["SH", "pngRepresentation"]
+- !private ["SH", "screenshot"]
+- !private ["SH", "subscript"]
+- !private ["SH", "takeScreenshot"]
+- !private ["SH", "tap"]
+- !private ["SH", "timedOut"]
+- !private ["SH", "wait"]
+- !private ["So21XCTAttachmentLifetimeV", "keepAlways"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "lifetime"]
+- ["So8NSObjectC", "String"]
+- !private ["So8NSObjectC", "UIDevice"]
+- !private ["So8NSObjectC", "XCTAttachment"]
+- !private ["So8NSObjectC", "XCTWaiter"]
+- !private ["So8NSObjectC", "XCUIApplication"]
+- !private ["So8NSObjectC", "XCUIScreen"]
+- !private ["So8NSObjectC", "add"]
+- !private ["So8NSObjectC", "buttons"]
+- !private ["So8NSObjectC", "continueAfterFailure"]
+- !private ["So8NSObjectC", "current"]
+- !private ["So8NSObjectC", "expectation"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "launch"]
+- !private ["So8NSObjectC", "lifetime"]
+- !private ["So8NSObjectC", "main"]
+- !private ["So8NSObjectC", "name"]
+- !private ["So8NSObjectC", "pngRepresentation"]
+- !private ["So8NSObjectC", "screenshot"]
+- ["So8NSObjectC", "setUp"]
+- !private ["So8NSObjectC", "subscript"]
+- ["So8NSObjectC", "takeScreenshot"]
+- !private ["So8NSObjectC", "tap"]
+- ["So8NSObjectC", "tearDown"]
+- ["So8NSObjectC", "testExample"]
+- !private ["So8NSObjectC", "wait"]
+- !private ["So8NSObjectP", "UIDevice"]
+- !private ["So8NSObjectP", "XCTAttachment"]
+- !private ["So8NSObjectP", "XCTWaiter"]
+- !private ["So8NSObjectP", "XCUIApplication"]
+- !private ["So8NSObjectP", "XCUIScreen"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "add"]
+- !private ["So8NSObjectP", "buttons"]
+- !private ["So8NSObjectP", "continueAfterFailure"]
+- !private ["So8NSObjectP", "current"]
+- !private ["So8NSObjectP", "expectation"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "launch"]
+- !private ["So8NSObjectP", "lifetime"]
+- !private ["So8NSObjectP", "main"]
+- !private ["So8NSObjectP", "name"]
+- !private ["So8NSObjectP", "pngRepresentation"]
+- !private ["So8NSObjectP", "screenshot"]
+- !private ["So8NSObjectP", "subscript"]
+- !private ["So8NSObjectP", "takeScreenshot"]
+- !private ["So8NSObjectP", "tap"]
+- !private ["So8NSObjectP", "wait"]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So14NSSecureCodingP", "lifetime"]
+- !private ["SY", "keepAlways"]
+- !private ["SY", "timedOut"]
+- !private ["So15XCTWaiterResultV", "timedOut"]
+- !private ["s27StringInterpolationProtocolP", "appendInterpolation"]
+- !private ["s27StringInterpolationProtocolP", "appendLiteral"]
+- !private ["s16TextOutputStreamP", "appendInterpolation"]
+- !private ["s16TextOutputStreamP", "appendLiteral"]
+- !private ["So8UIDeviceC", "current"]
+- !private ["So8UIDeviceC", "name"]
+- !private ["So11XCTActivityP", "UIDevice"]
+- !private ["So11XCTActivityP", "XCTAttachment"]
+- !private ["So11XCTActivityP", "XCTWaiter"]
+- !private ["So11XCTActivityP", "XCUIApplication"]
+- !private ["So11XCTActivityP", "XCUIScreen"]
+- ["So11XCTActivityP", ""]
+- !private ["So11XCTActivityP", "add"]
+- !private ["So11XCTActivityP", "continueAfterFailure"]
+- !private ["So11XCTActivityP", "expectation"]
+- !private ["So11XCTActivityP", "init"]
+- !private ["So11XCTActivityP", "takeScreenshot"]
+- !private ["So13XCTAttachmentC", "init"]
+- !private ["So13XCTAttachmentC", "lifetime"]
+- !private ["So9XCTWaiterC", "wait"]
+- !private ["So17XCTWaiterDelegateP", "UIDevice"]
+- !private ["So17XCTWaiterDelegateP", "XCTAttachment"]
+- !private ["So17XCTWaiterDelegateP", "XCTWaiter"]
+- !private ["So17XCTWaiterDelegateP", "XCUIApplication"]
+- !private ["So17XCTWaiterDelegateP", "XCUIScreen"]
+- ["So17XCTWaiterDelegateP", ""]
+- !private ["So17XCTWaiterDelegateP", "add"]
+- !private ["So17XCTWaiterDelegateP", "continueAfterFailure"]
+- !private ["So17XCTWaiterDelegateP", "expectation"]
+- !private ["So17XCTWaiterDelegateP", "init"]
+- !private ["So17XCTWaiterDelegateP", "takeScreenshot"]
+- ["So6XCTestC", "String"]
+- !private ["So6XCTestC", "UIDevice"]
+- !private ["So6XCTestC", "XCTAttachment"]
+- !private ["So6XCTestC", "XCTWaiter"]
+- !private ["So6XCTestC", "XCUIApplication"]
+- !private ["So6XCTestC", "XCUIScreen"]
+- !private ["So6XCTestC", "add"]
+- !private ["So6XCTestC", "continueAfterFailure"]
+- !private ["So6XCTestC", "expectation"]
+- ["So6XCTestC", "init"]
+- ["So6XCTestC", "setUp"]
+- ["So6XCTestC", "takeScreenshot"]
+- ["So6XCTestC", "tearDown"]
+- ["So6XCTestC", "testExample"]
+- ["So10XCTestCaseC", "String"]
+- !private ["So10XCTestCaseC", "UIDevice"]
+- !private ["So10XCTestCaseC", "XCTAttachment"]
+- !private ["So10XCTestCaseC", "XCTWaiter"]
+- !private ["So10XCTestCaseC", "XCUIApplication"]
+- !private ["So10XCTestCaseC", "XCUIScreen"]
+- ["So10XCTestCaseC", ""]
+- !private ["So10XCTestCaseC", "add"]
+- !private ["So10XCTestCaseC", "continueAfterFailure"]
+- !private ["So10XCTestCaseC", "expectation"]
+- ["So10XCTestCaseC", "init"]
+- ["So10XCTestCaseC", "setUp"]
+- ["So10XCTestCaseC", "takeScreenshot"]
+- ["So10XCTestCaseC", "tearDown"]
+- ["So10XCTestCaseC", "testExample"]
+- !private ["So15XCUIApplicationC", "buttons"]
+- !private ["So15XCUIApplicationC", "init"]
+- !private ["So15XCUIApplicationC", "launch"]
+- !private ["So11XCUIElementC", "buttons"]
+- !private ["So11XCUIElementC", "init"]
+- !private ["So11XCUIElementC", "launch"]
+- !private ["So11XCUIElementC", "tap"]
+- !private ["So21XCUIElementAttributesP", "buttons"]
+- !private ["So21XCUIElementAttributesP", "init"]
+- !private ["So21XCUIElementAttributesP", "launch"]
+- !private ["So21XCUIElementAttributesP", "tap"]
+- !private ["So16XCUIElementQueryC", "subscript"]
+- !private ["So28XCUIElementSnapshotProvidingP", "buttons"]
+- !private ["So28XCUIElementSnapshotProvidingP", "init"]
+- !private ["So28XCUIElementSnapshotProvidingP", "launch"]
+- !private ["So28XCUIElementSnapshotProvidingP", "tap"]
+- !private ["So28XCUIElementTypeQueryProviderP", "buttons"]
+- !private ["So28XCUIElementTypeQueryProviderP", "init"]
+- !private ["So28XCUIElementTypeQueryProviderP", "launch"]
+- !private ["So28XCUIElementTypeQueryProviderP", "subscript"]
+- !private ["So28XCUIElementTypeQueryProviderP", "tap"]
+- !private ["So10XCUIScreenC", "main"]
+- !private ["So10XCUIScreenC", "screenshot"]
+- !private ["So14XCUIScreenshotC", "pngRepresentation"]
+- !private ["So23XCUIScreenshotProvidingP", "buttons"]
+- !private ["So23XCUIScreenshotProvidingP", "init"]
+- !private ["So23XCUIScreenshotProvidingP", "launch"]
+- !private ["So23XCUIScreenshotProvidingP", "main"]
+- !private ["So23XCUIScreenshotProvidingP", "screenshot"]
+- !private ["So23XCUIScreenshotProvidingP", "tap"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIDevice"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "XCTAttachment"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "XCTWaiter"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "XCUIApplication"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "XCUIScreen"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "add"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "buttons"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "continueAfterFailure"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "current"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "expectation"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "launch"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "lifetime"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "main"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "name"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "pngRepresentation"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "screenshot"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "subscript"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "takeScreenshot"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "tap"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "wait"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "UIDevice"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "XCTAttachment"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "XCTWaiter"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "XCUIApplication"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "XCUIScreen"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "add"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "buttons"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "continueAfterFailure"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "current"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "expectation"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "launch"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "lifetime"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "main"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "name"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "pngRepresentation"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "screenshot"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "subscript"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "takeScreenshot"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "tap"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "wait"]
+- ["16screeshotUITestsAAC", "String"]
+- !private ["16screeshotUITestsAAC", "UIDevice"]
+- !private ["16screeshotUITestsAAC", "XCTAttachment"]
+- !private ["16screeshotUITestsAAC", "XCTWaiter"]
+- !private ["16screeshotUITestsAAC", "XCUIApplication"]
+- !private ["16screeshotUITestsAAC", "XCUIScreen"]
+- !private ["16screeshotUITestsAAC", "add"]
+- !private ["16screeshotUITestsAAC", "continueAfterFailure"]
+- ["16screeshotUITestsAAC", "deinit"]
+- !private ["16screeshotUITestsAAC", "expectation"]
+- ["16screeshotUITestsAAC", "init"]
+- ["16screeshotUITestsAAC", "setUp"]
+- ["16screeshotUITestsAAC", "takeScreenshot"]
+- ["16screeshotUITestsAAC", "tearDown"]
+- ["16screeshotUITestsAAC", "testExample"]
+depends-nominal:
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- !private "s26DefaultStringInterpolationV"
+- "SQ"
+- "SH"
+- !private "So21XCTAttachmentLifetimeV"
+- !private "So8NSCodingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "SY"
+- !private "So15XCTWaiterResultV"
+- !private "s27StringInterpolationProtocolP"
+- !private "s16TextOutputStreamP"
+- !private "So8UIDeviceC"
+- "So11XCTActivityP"
+- !private "So13XCTAttachmentC"
+- !private "So9XCTWaiterC"
+- "So17XCTWaiterDelegateP"
+- "So6XCTestC"
+- "So10XCTestCaseC"
+- !private "So15XCUIApplicationC"
+- !private "So11XCUIElementC"
+- !private "So21XCUIElementAttributesP"
+- !private "So16XCUIElementQueryC"
+- !private "So28XCUIElementSnapshotProvidingP"
+- !private "So28XCUIElementTypeQueryProviderP"
+- !private "So10XCUIScreenC"
+- !private "So14XCUIScreenshotC"
+- !private "So23XCUIScreenshotProvidingP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- "16screeshotUITestsAAC"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode1131.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/ObjectiveC.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode1131.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/CoreImage.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode1131.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/QuartzCore.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode1131.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/Dispatch.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode1131.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/Metal.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode1131.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/Darwin.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode1131.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/Foundation.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode1131.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/CoreFoundation.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode1131.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/CoreGraphics.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode1131.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/Swift.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode1131.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/UIKit.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode1131.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/SwiftOnoneSupport.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode1131.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/Combine.framework/Modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftinterface"
+- "/Applications/Xcode1131.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode1131.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode1131.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode1131.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode1131.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode1131.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode1131.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode1131.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode1131.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode1131.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode1131.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode1131.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode1131.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode1131.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/lib/XCTest.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode1131.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Modules/module.modulemap"
+- "/Applications/Xcode1131.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode1131.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode1131.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode1131.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode1131.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode1131.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode1131.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode1131.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode1131.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode1131.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode1131.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode1131.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTest.apinotes"
+- "/Applications/Xcode1131.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode1131.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "d2dddcd98289d17f2c4d49f6b3d404bd"

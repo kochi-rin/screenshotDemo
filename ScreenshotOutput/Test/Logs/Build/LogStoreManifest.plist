@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>AD8CAF4E-C61D-45FD-BEAE-31F671502947</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AD8CAF4E-C61D-45FD-BEAE-31F671502947.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>screeshot project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>screeshot</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project screeshot with scheme screeshot</string>
+			<key>timeStartedRecording</key>
+			<real>614161880.788239</real>
+			<key>timeStoppedRecording</key>
+			<real>614161890.397596</real>
+			<key>title</key>
+			<string>Building project screeshot with scheme screeshot</string>
+			<key>uniqueIdentifier</key>
+			<string>AD8CAF4E-C61D-45FD-BEAE-31F671502947</string>
+		</dict>
+		<key>E3C5101B-72D2-41C0-A695-FF99F29E4819</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E3C5101B-72D2-41C0-A695-FF99F29E4819.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>screeshot project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>screeshot</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Testing project screeshot with scheme screeshot</string>
+			<key>timeStartedRecording</key>
+			<real>614161890.398435</real>
+			<key>timeStoppedRecording</key>
+			<real>614161892.10526299</real>
+			<key>title</key>
+			<string>Testing project screeshot with scheme screeshot</string>
+			<key>uniqueIdentifier</key>
+			<string>E3C5101B-72D2-41C0-A695-FF99F29E4819</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
